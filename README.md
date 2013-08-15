@@ -23,7 +23,7 @@ outra que lhe agrade e alterar no arquivo /client/index.php para que a requisiç
 destinada a tal.
 
 Após iniciar o servidor, digite http://localhost:8080 se tudo ocorreu bem é pra exibir a
-mensagem "200Metodo nao implementado" pois não há requisições sendo feitas pelo método
+mensagem "405Metodo nao implementado" pois não há requisições sendo feitas pelo método
 POST.
 
 Estando rodando o nosso server agora inicie o cliente preferencialmente em uma nova instância 
