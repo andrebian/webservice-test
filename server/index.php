@@ -47,6 +47,7 @@ try {
     $xml = new SimpleXMLElement('<xml/>');
     $xml->addChild('status', $e->getCode());
     $xml->addChild('message', $e->getMessage());
+    $xml->addChild('user', '');
 
     print $xml->asXML();
 }
