@@ -27,8 +27,8 @@ mensagem "405Metodo nao implementado" pois não há requisições sendo feitas p
 POST.
 
 Estando rodando o nosso server agora inicie o cliente preferencialmente em uma nova instância 
-do PHP 5.4 (note que se você estiver rodando o PHP padrão de sua máquina, haverão 3 instâncias 
-do PHP rodando simultaneamente. Isto não tem problema pois ao final desta didática as duas 
+do PHP 5.4 (note que se você estiver rodando o PHP padrão de sua máquina, existirão 3 instâncias 
+do PHP rodando simultaneamente (ou mais). Isto não tem problema pois ao final desta didática as duas 
 por aqui iniciadas serão finalizadas.) em qualquer outra porta, aqui definirei como 8880.
 
 
